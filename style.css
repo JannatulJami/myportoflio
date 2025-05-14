@@ -34,7 +34,7 @@ header{
   filter: drop-shadow;
   display: flex;
   justify-content: space-between;
-  align-items: cnter; 
+  align-items: center; 
   z-index: 100;
 }
   

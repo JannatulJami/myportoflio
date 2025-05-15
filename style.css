@@ -57,3 +57,19 @@ nav a{
   border-bottom: 3px solid transparent;
 }
 
+nav a:hover, nav a.active{
+  color: pink;
+  border-bottom: 3px solid pink;
+}
+@media(max-width.995px){
+  nav{
+    position: absolute;
+    top: 100%;
+    right: 0;
+    width: 40%;
+    border-left: 3px solid pink;
+    
+
+  }}
+  
+

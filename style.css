@@ -93,3 +93,12 @@ section{
   padding: 5rem 9%;
 }  
 
+.home{
+  display: flex;
+  justify-content: center; 
+  align-items: cneter;
+  gap: 8rem;
+  background-color: black;
+}
+
+

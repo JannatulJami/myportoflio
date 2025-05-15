@@ -68,8 +68,21 @@ nav a:hover, nav a.active{
     right: 0;
     width: 40%;
     border-left: 3px solid pink;
-    
-
-  }}
+    border-bottom: 3px solid pink;
+    border-bottom-left-radius: 2rem;
+    padding: 1rem; 
+    background-color: #161616;
+    border-top: 0.1rem solid black; 
+  }
+nav.active{
+  display: block;
+}
+nav a{
+  display:block;
+  font-size: 2rem;
+  margin: 3rem 0;
+  
+}
+}
   
 

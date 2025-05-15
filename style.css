@@ -74,15 +74,19 @@ nav a:hover, nav a.active{
     background-color: #161616;
     border-top: 0.1rem solid black; 
   }
-nav.active{
+  nav.active{
   display: block;
-}
-nav a{
+  }
+  nav a{
   display:block;
   font-size: 2rem;
   margin: 3rem 0;
-  
-}
+  }
+  nav a:hover, nav a.active{
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border-bottom: 0.5rem solid pink;
+  }
 }
   
 

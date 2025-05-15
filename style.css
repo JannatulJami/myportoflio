@@ -120,3 +120,7 @@ span{
   border-radius: 50%;
 }
 
+.home-img img{
+  position: relative;
+  width: 32vh;
+}

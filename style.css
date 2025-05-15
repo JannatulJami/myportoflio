@@ -88,5 +88,8 @@ nav a:hover, nav a.active{
   border-bottom: 0.5rem solid pink;
   }
 }
-  
+section{
+  min-height: 100vh;
+  padding: 5rem 9%;
+}  
 
